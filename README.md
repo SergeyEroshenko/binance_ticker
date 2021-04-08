@@ -1,8 +1,8 @@
 - install python 3.8
 
-- git clone <this repository>
+- git clone this repository
 
-- cd <this repository>
+- cd binance_ticker
 
 - python -m venv .venv
 
